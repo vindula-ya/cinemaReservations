@@ -1,0 +1,19 @@
+{
+    "database": "mongodb://localhost:27017/cinema",
+    "email": {
+        "service": "",
+        "auth": {
+            "user": "",
+            "pass": ""
+        }
+    },
+    "portNo": 8080,
+    "saltRounds": 10,
+    "senderNumber": "",
+    "sms": {
+        "apiKey": "",
+        "apiSecret": ""
+    },
+    "tokenExpireTime": "5m",
+    "tokenSecret": "superSecret"
+}

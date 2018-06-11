@@ -1,0 +1,20 @@
+{
+  "name": "cinemaapi-mongodb",
+  "version": "1.0.0",
+  "description": "API for cinema bookings",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vindula-ya"
+  },
+  "keywords": [
+    "express",
+    "mongodb",
+    "jsonwebtoken"
+  ],
+  "author": "Vindu-Ya",
+  "license": "ISC"
+}
